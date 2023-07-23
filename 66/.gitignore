@@ -3,9 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-66/obj/*
-66/.gitignore
-66/66.csproj
+/obj/*
+/.gitignore
+66.csproj
 
 # User-specific files
 *.rsuser
